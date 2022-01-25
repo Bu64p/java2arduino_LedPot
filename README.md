@@ -11,7 +11,9 @@ then upload [led_pot.ino](https://github.com/Bu64p/java2arduino_LedPot/blob/main
 now you can donload [LedPot.jar](https://github.com/Bu64p/java2arduino_LedPot/blob/main/Compiled/LedPot.jar) and use your program.
  
 also you can compile this [files](https://github.com/Bu64p/java2arduino_LedPot/tree/main/LedPot/src) in any jdk.
-**_ dont forget [reference jar](https://github.com/Bu64p/java2arduino_LedPot/tree/main/Jar-reference) folder! _**
+
+**_dont forget_** [reference jar](https://github.com/Bu64p/java2arduino_LedPot/tree/main/Jar-reference) **_folder!_**
+
 > if you don't want to use this reference jar, you can use this check this [repository](https://github.com/Bu64p/SerialCom)
 
 #  
