@@ -8,9 +8,9 @@ first you should create this electronic circuit:
 ![IMG_20220125_164540](https://user-images.githubusercontent.com/96871830/150999271-57ccc031-d3fc-40c2-9869-1d74ae15acbd.jpg)
 
 then upload [led_pot.ino](https://github.com/Bu64p/java2arduino_LedPot/blob/main/Arduino%20Code/led_pot.ino) into you arduino.
-now you can donload [LedPot.jar](https://github.com/Bu64p/java2arduino_LedPot/blob/main/Compiled/LedPot.jar) and use your program.
+now you can download [LedPot.jar](https://github.com/Bu64p/java2arduino_LedPot/blob/main/Compiled/LedPot.jar) and use your program.
  
-also you can compile this [files](https://github.com/Bu64p/java2arduino_LedPot/tree/main/LedPot/src) in any jdk.
+also you can compile these [files](https://github.com/Bu64p/java2arduino_LedPot/tree/main/LedPot/src) in any jdk.
 
 **_dont forget_** [reference jar](https://github.com/Bu64p/java2arduino_LedPot/tree/main/Jar-reference) **_folder!_**
 
