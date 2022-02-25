@@ -14,7 +14,7 @@ also you can compile these [files](https://github.com/Bu64p/java2arduino_LedPot/
 
 **_dont forget_** [reference jar](https://github.com/Bu64p/java2arduino_LedPot/tree/main/Jar-reference) **_folder!_**
 
-> if you don't want to use this reference jar, you can use this check this [repository](https://github.com/Bu64p/SerialCom)
+> if you don't want to use this reference jar, check this [repository](https://github.com/Bu64p/SerialCom)
 
 #  
  compiled in Java16. 
